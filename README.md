@@ -19,12 +19,16 @@
 [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)  
 [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0)  
 [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)  
-[Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4)  
-[Is TDD dead? Of course not!](https://www.youtube.com/watch?v=PCEHRFHKZSk)  
+[Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons)  
+[Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE&feature=youtu.be)  
 
-## Patterns
+### Patterns
 [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs)  
 [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE)  
+
+### Testing
+[Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4)  
+[Is TDD dead? Of course not!](https://www.youtube.com/watch?v=PCEHRFHKZSk)  
 
 ### Debugging
 [Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA)  
