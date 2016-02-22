@@ -1,5 +1,8 @@
 ## Posts
 
+### Learning
+[Learning how to learn](https://medium.com/@thejameskyle/learning-how-to-learn-7f04d6f42c1e#.4iju6akt9)  
+
 ### Performance
 [How the Grinch stole array.length access](http://mrale.ph/blog/2014/12/24/array-length-caching.html)  
 
@@ -25,6 +28,7 @@
 ### Patterns
 [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs)  
 [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE)  
+[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)  
 
 ### Testing
 [Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4)  
@@ -32,5 +36,4 @@
 
 ### Debugging
 [Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA)  
-
-[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)  
+[Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA)  
