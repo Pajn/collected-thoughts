@@ -14,7 +14,7 @@
 [CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices)  
 
 ### Stack Overflow
-[What is Redux Thunk and when you don’t need](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)  
+[What is Redux Thunk and when you don’t need it](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)  
 
 ## Talks
 
