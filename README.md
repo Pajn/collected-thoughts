@@ -36,4 +36,8 @@
 
 ### Debugging
 [Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA)  
+
+### Performance
+[Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw)  
+[RAIL: Putting the User at the Center of Performance](https://www.youtube.com/watch?v=X-qZu2Aoo98)  
 [Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA)  
