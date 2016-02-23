@@ -19,26 +19,26 @@
 ## Talks
 
 ### Paradigms & Architechture
-[Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)(Brian Lonsdorf - Loop/recur)  
-[Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0)(Martin Kleppmann)  
-[Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)(Jack Diederich)  
-[Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons)(Gilad Bracha)  
-[Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE)(Evan Czaplicki)  
+[Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) (Brian Lonsdorf - Loop/recur)  
+[Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0) (Martin Kleppmann)  
+[Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) (Jack Diederich)  
+[Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) (Gilad Bracha - Google)  
+[Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Evan Czaplicki)  
 
 ### Patterns
-[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs)(Jafar Husain - Netflix)  
-[Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE)(Sandi Metz)  
-[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)(Martin Fowler)  
+[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) (Jafar Husain - Netflix)  
+[Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) (Sandi Metz)  
+[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) (Martin Fowler)  
 
 ### Testing
-[Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4)(Daniel Heinemeier Hansson, Kent Beck, Martin Fowler)  
-[Is TDD dead? Of course not!](https://www.youtube.com/watch?v=PCEHRFHKZSk)(Emily Bache)  
+[Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4) (Daniel Heinemeier Hansson, Kent Beck, Martin Fowler)  
+[Is TDD dead? Of course not!](https://www.youtube.com/watch?v=PCEHRFHKZSk) (Emily Bache)  
 
 ### Debugging
-[Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA)(Yunong Xiao - Netflix)  
-[Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U)(Alice Boxhall)  
+[Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA) (Yunong Xiao - Netflix)  
+[Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U) (Alice Boxhall - Google)  
 
 ### Performance
-[Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw)(Paul Irish - Google)  
-[RAIL: Putting the User at the Center of Performance](https://www.youtube.com/watch?v=X-qZu2Aoo98)(Paul Irish - Google)  
-[Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA)(Vyacheslav Egorov - Google)  
+[Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) (Paul Irish - Google)  
+[RAIL: Putting the User at the Center of Performance](https://www.youtube.com/watch?v=X-qZu2Aoo98) (Paul Irish - Google)  
+[Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA) (Vyacheslav Egorov - Google)  
