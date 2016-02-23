@@ -36,6 +36,7 @@
 
 ### Debugging
 [Debugging Node.js in Production](https://www.youtube.com/watch?v=O1YP8QP9gLA)  
+[Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U)  
 
 ### Performance
 [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw)  
