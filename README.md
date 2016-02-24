@@ -24,6 +24,7 @@
 [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) (Jack Diederich)  
 [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) (Gilad Bracha - Google)  
 [Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Evan Czaplicki)  
+[The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Robert C. Martin/Uncle Bob)  
 
 ### Patterns
 [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) (Jafar Husain - Netflix)  
