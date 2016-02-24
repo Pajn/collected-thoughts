@@ -29,7 +29,7 @@
 ### Patterns
 [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) (Jafar Husain - Netflix)  
 [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) (Sandi Metz)  
-[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) (Martin Fowler)  
+[Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) (Martin Fowler - ThoughtWorks)  
 
 ### Testing
 [Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) [2](https://www.youtube.com/watch?v=JoTB2mcjU7w) [3](https://www.youtube.com/watch?v=YNw4baDz6WA) [4](https://www.youtube.com/watch?v=dGtasFJnUxI) [5](https://www.youtube.com/watch?v=gWD6REVeKW4) (Daniel Heinemeier Hansson, Kent Beck, Martin Fowler)  
